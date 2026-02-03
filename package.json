@@ -1,0 +1,7 @@
+{
+  "name": "z3e",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "node frontend/main.js"
+  }
+}
