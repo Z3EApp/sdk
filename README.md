@@ -6,7 +6,7 @@ No platforms extracting value. No hidden algorithms.
 Just users and creators earning **on equal terms**, powered by the **ZAI Algorithm**.
 
 🔗 Website: https://z3e.app/
-
+Pump.fun CA : 5yDPpxsCkY48NH1RYANbqJYXjGqNFapuFK932Merpump
 ---
 
 ## ✨ What is Z3E?
